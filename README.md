@@ -1,0 +1,3 @@
+# MazeGame
+It's the simple C++ game. It isn't a completed project, because I wrote it some years ago to improve my programming skills...
+I don't think, I'll finish it :(, but I want to share it with others.
